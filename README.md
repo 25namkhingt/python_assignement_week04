@@ -1,6 +1,3 @@
 # python_assignement_week04
-
-the project yes testing
-test2
-
-
+ test 4
+ 
